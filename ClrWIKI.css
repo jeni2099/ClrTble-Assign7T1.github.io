@@ -1,0 +1,27 @@
+.t1 tr:nth-child(odd) {
+    background-color: #89caf5;
+}
+
+.t1 tr:nth-child(even) {
+    background-color: #89eef5;
+}
+
+.t2 tr:nth-child(odd){
+    background-color: #f5a089 ;
+}
+
+.t2 tr:nth-child(even){
+    background-color: #f58689 ;
+}
+
+.t2 tr:nth-child(1){
+    background-color: #f589b6 ;
+}
+
+.t0 tr:nth-child(1) {
+    background-color: #f58994;
+}
+
+.t0 tr:nth-child(2) {
+    background-color: #89f5b6;
+}
